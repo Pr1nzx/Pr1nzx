@@ -1,7 +1,7 @@
 # Hey, I'm Danang Apri
 
 <div align="center">
-  <p><strong>Final-year CS @ Universitas Sebelas Maret | Federated Learning & Privacy-first ML</strong></p>
+
   <a href="https://github.com/Pr1nzx"><img src="https://img.shields.io/badge/GitHub-Pr1nzx-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub badge" /></a>
   <a href="https://linkedin.com/in/danangaprianto"><img src="https://img.shields.io/badge/LinkedIn-danangaprianto-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" /></a>
   <a href="https://instagram.com/qurick_"><img src="https://img.shields.io/badge/Instagram-@qurick_-d62976?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram badge" /></a>
